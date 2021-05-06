@@ -1,0 +1,8 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+#	name = Ubuntu
+#	email = ubuntu@ip-172-31-25-145.us-east-2.compute.internal
+[user]
+	name = JEOSUNBIN1209
+	email = b735432@g.hongik.ac.kr
